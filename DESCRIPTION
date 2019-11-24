@@ -1,0 +1,4 @@
+LocoNet Quad Detector baseboard
+
+An Arduino Pro Mini with 4x DCC-OD/cpOD sockets and LocoNet-style communications that can be used as a building block for a stand alone Loconet Occupancy Detector.
+
